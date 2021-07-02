@@ -18,7 +18,7 @@ module.exports = {
         repeatmode: "Don't you ever stop!(Loop play)",
         betainfo: "Update log: 2020.6.28 Under construction, there are only a few materials at present, welcome to join our editing work! If there are errors, please point them out on Github, thank you for your support~",
         joininfo: "QQ Group - 笹按钮项目组：936540419，TG Group：",
-        info: "Congratulation to Sasaki Saku, reaching 470k channel subscribers",
+        info: "Congratulation to Sasaki Saku, reaching 600k channel subscribers",
         developer1: "Developer：Coceki",
         developer2: "/ Nyaasu",
         credits: "Special Thanks：笹kid",

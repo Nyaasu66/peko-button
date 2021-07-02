@@ -18,7 +18,7 @@ module.exports = {
         repeatmode: "不要停下来啊（循环序列）",
         betainfo: "更新日志：2020.6.28 建造中，目前只有少量素材，欢迎加入我们的剪辑工作！有错误请在Github指出，谢谢大家支持~",
         joininfo: "QQ群-笹按钮项目组：936540419，TG群组：",
-        info: "恭喜笹木咲 47 万订阅达成！",
+        info: "恭喜笹木咲 60 万订阅达成！",
         developer1: "作者：Coceki",
         developer2: "/ Nyaasu",
         credits: "特别感谢：笹kid ",

@@ -18,7 +18,7 @@
         repeatmode: "止まらないで（ループプレイ）",
         betainfo: "更新ログ：2020.6.28現在作成中の資料はわずかです。編集作業にご参加ください。 エラーがある場合は、Githubで指摘してください。サポートに感謝します〜",
         joininfo: "QQグループ--笹按钮项目组：936540419，TGグループ：",
-        info: "笹木咲47万人のYouTubeチャンネル登録者におめでとう",
+        info: "笹木咲60万人のYouTubeチャンネル登録者におめでとう",
         developer1: "開発者：Coceki",
         developer2: "/ Nyaasu",
         credits: "特別な感謝：笹kid ",

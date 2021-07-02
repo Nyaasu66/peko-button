@@ -12,6 +12,7 @@ module.exports = {
       workboxOptions: {
         swSrc: 'src/service-worker.js'
       },
-      themeColor: '#728bf3'
+      themeColor: '#728bf3',
+      publicPath: '/sasa-button/'
     },
 }

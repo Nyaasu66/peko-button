@@ -76,12 +76,6 @@
                   <v-row>
                     {{$t("ui.developerinfo")}}
                   </v-row>
-                  <v-row align="end" class="pt-2">
-                    <span class="vercel-text">Powered by</span>
-                    <a href="https://www.vercel.com/?utm_source=vbuposc&utm_campaign=oss" target="_blank" rel="noreferrer">
-                      <img class="pl-2" src="img/vercel/dark.svg" alt="vercel" height="24px"/>
-                    </a>
-                  </v-row>
                 </v-container>
               </v-flex>
               <v-spacer />

@@ -108,7 +108,7 @@ export default {
     links:[
       {
         name:"VTuber按钮合集/vtbBtn",
-        href:"https://vtbbtn.org/",
+        href:"https://vbup-osc.github.io/vtuber-voice-button-collection/",
         color:"orange lighten-1"
       }
     ],
